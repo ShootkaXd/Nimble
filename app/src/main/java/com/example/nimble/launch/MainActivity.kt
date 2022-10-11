@@ -1,7 +1,8 @@
-package com.example.nimble
+package com.example.nimble.launch
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.nimble.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
